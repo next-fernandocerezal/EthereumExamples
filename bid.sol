@@ -1,5 +1,9 @@
 //based on https://venknar.github.io/DAppsSamples/Simple-Auction/Simple-Solution.html
 
+//TODO
+//add admin that cancel all (shortcut pattern)
+//change begining date  
+
 pragma solidity ^0.4.0;
 
 contract SimpleAuction {
